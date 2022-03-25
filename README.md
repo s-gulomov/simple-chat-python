@@ -67,4 +67,13 @@ clients that are connected, and at least 2 clients to see messages being broadca
 
 ### Short demo
 
-![image](https://user-images.githubusercontent.com/73752036/160145827-755400e8-a7ab-47ad-ac97-a0f94e966e5f.png)
+![image](https://user-images.githubusercontent.com/73752036/160146135-bf0a6f2a-a138-40eb-9ee8-ca1dcddfc751.png)
+![image](https://user-images.githubusercontent.com/73752036/160146205-7e34a7f7-7c8c-4ed3-b54e-bfcc68b56c9b.png)
+![image](https://user-images.githubusercontent.com/73752036/160146258-debc879f-e484-4b0e-bb18-24ad95fc0ae1.png)
+![image](https://user-images.githubusercontent.com/73752036/160146317-ad5925dc-71c4-48a1-a48d-83c3b9a8e1b0.png)
+### File Uploading
+
+![image](https://user-images.githubusercontent.com/73752036/160146416-ed6d3172-2067-43bd-a99b-5e5fcd1e06e9.png)
+
+
+
