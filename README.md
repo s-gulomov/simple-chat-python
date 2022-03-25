@@ -63,3 +63,8 @@ clients that are connected, and at least 2 clients to see messages being broadca
 
 > If you are a client and want to quit from chat, simply write `quit` and you will be 
 > disconnected from the chat.
+
+
+### Short demo
+
+[image](https://user-images.githubusercontent.com/73752036/160145827-755400e8-a7ab-47ad-ac97-a0f94e966e5f.png)
